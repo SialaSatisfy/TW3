@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.testwork.PrefManagerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-19T06:34:21" hostname="DESKTOP-OH6FGUP" time="0.859">
+  <properties/>
+  <testcase name="getUsernameHere" classname="com.example.testwork.PrefManagerTest" time="0.859"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

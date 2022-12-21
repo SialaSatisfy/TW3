@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: org.testifyproject.mock:mockito:1.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testifyproject.mock/mockito/1.0.6/c1f57d4a02c9ee8e070a9c49fcb248e5a37bc2f5/mockito-1.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testifyproject.mock/mockito/1.0.6/901fb691f734b2cc0aaa25560d8a491e364ed89/mockito-1.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testifyproject.mock/mockito/1.0.6/ac3d5aba1f9c17fd0c9d75cf134c0bc745436dc1/mockito-1.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
